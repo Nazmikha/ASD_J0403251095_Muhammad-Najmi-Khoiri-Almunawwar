@@ -1,0 +1,11 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Indomie,30
+BRG005,MinyakGoreng,21
+BRG006,TepungTerigu,13
+BRG007,TelurAyam,32
+BRG008,Mentega,9
+BRG009,Lilin,12
+BRG010,GasElpiji,10
+BRG011,Masako,13
