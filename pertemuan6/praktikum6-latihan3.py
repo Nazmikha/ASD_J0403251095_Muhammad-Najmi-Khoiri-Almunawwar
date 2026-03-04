@@ -40,3 +40,27 @@ def insertion_sort(data):
 angka = [5,2,4,6,1,3]
 
 print ("Hasil Sorting : " ,insertion_sort(angka))
+
+#===========================================================
+# Soal
+# 1. Tuliskan isi list setelah iterasi i = 1.
+# 2. Tuliskan isi list setelah iterasi i = 3.
+# 3. Berapa kali pergeseran terjadi pada iterasi i = 4?
+#==========================================================
+# Jawaban
+# 1
+# Iterasi ke- 1
+# Nilai Key 2
+# Bagian Kiri (Terurut):  [5]
+# Bagian Kanan(Belum Terurut):  [2, 4, 6, 1, 3]
+# Setelah disisipkan :  [2, 5, 4, 6, 1, 3]
+
+# 2 
+# Iterasi ke- 3
+# Nilai Key 6
+# Bagian Kiri (Terurut):  [2, 4, 5]
+# Bagian Kanan(Belum Terurut):  [6, 1, 3]
+# Setelah disisipkan :  [2, 4, 5, 6, 1, 3]
+
+# 3
+# Ada 4 Pergeseran di Iterasi ke-4

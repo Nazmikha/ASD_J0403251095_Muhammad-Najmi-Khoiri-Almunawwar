@@ -40,6 +40,7 @@ def insertion_sort(data):
 angka1= [5,7,2,7,4,1]
 print(insertion_sort(angka1))
 
+# 2
 def insertion_sort_descending(data):
     for i in range(1, len(data)):
         key = data[i]
