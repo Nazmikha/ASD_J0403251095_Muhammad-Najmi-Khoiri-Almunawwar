@@ -2,8 +2,7 @@
 #NAMA : Muhammad Najmi Khoiri Almunawwar
 #NIM  : J0403251095
 #Kelas: P2
-#================================================
-
+#=============================================
 # ==========================================================
 # Latihan 7.1 - Rekursi Dasar: Menghitung Nilai Pangkat
 # Tujuan   : Memahami base case dan recursive case
