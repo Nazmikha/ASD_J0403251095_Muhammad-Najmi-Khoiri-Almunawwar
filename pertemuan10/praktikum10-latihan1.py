@@ -2,8 +2,6 @@
 # Nama    : Muhammad Najmi Khoiri Almunawwar
 # NIM     : J0403251095
 # Judul   : Latihan 1-3: Node BST, Insert, Traversal Inorder, dan Search
-# Modul   : Modul 6 - Binary Search Tree (BST) dan AVL Tree
-# Matkul  : Algoritma dan Struktur Data (TPL2106)
 # ==========================================================
 
 

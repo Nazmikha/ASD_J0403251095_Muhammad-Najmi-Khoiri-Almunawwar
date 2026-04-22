@@ -2,8 +2,6 @@
 # Nama    : Muhammad Najmi Khoiri Almunawwar
 # NIM     : J0403251095
 # Judul   : Latihan 6: Rotasi Kanan pada BST Tidak Seimbang (TUGAS)
-# Modul   : Modul 6 - Binary Search Tree (BST) dan AVL Tree
-# Matkul  : Algoritma dan Struktur Data (TPL2106)
 # ==========================================================
 #
 # KONSEP ROTASI KANAN (Right Rotation / kasus LL):
