@@ -13,7 +13,7 @@ edges = [
     ('B', 'D')    # B nyambung ke D
 ]
 # Total ada 5 edge, tapi graph ini punya cycle
-# Contoh cycle: A → C → D → A (balik lagi ke A = siklus!)
+# Contoh cycle: A - C - D - A (balik lagi ke A = siklus)
 
 # ==========================================================
 # Spanning tree: pilih edge secukupnya buat nyambungin semua node
@@ -22,10 +22,10 @@ edges = [
 spanning_tree = [
     ('A', 'C'),   # A nyambung ke C dulu
     ('C', 'D'),   # dari C lanjut ke D
-    ('D', 'B')    # dari D ke B — semua node udah nyambung semua
+    ('D', 'B')    # dari D ke B - semua node udah nyambung semua
 ]
 # Coba cek: dari A bisa ke C, dari C ke D, dari D ke B
-# Semua 4 node terhubung, dan nggak ada loop → valid spanning tree!
+# Semua 4 node terhubung, dan nggak ada loop - valid spanning tree!
 
 # ==========================================================
 # Tampilkan hasilnya
